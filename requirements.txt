@@ -45,7 +45,7 @@ numpy==1.13.3
 PAM==0.4.2
 pandas==0.23.4
 pexpect==4.0.1
-Pillow==3.1.2
+Pillow==8.1.1
 plotly==2.3.0
 pox==0.2.4
 ppft==1.6.4.8
