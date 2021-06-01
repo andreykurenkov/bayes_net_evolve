@@ -82,7 +82,7 @@ traitlets==4.3.2
 ttystatus==0.32
 unity-lens-photos==1.0
 urlgrabber==3.9.1
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 wikipedia==1.4.0
 yum-metadata-parser==1.1.4
