@@ -24,7 +24,7 @@ gyp==0.1
 html5lib==0.999
 httplib2==0.9.1
 idna==2.6
-ipython==2.4.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 Jinja2==2.8
 joblib==0.12.5
