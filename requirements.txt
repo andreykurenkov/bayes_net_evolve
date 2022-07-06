@@ -21,7 +21,7 @@ GitPython==0.3.2rc1
 gradescope-utils==0.2.3
 greenlet==0.4.15
 gyp==0.1
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.9.1
 idna==2.6
 ipython==2.4.1
